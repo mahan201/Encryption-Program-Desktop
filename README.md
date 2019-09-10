@@ -7,4 +7,5 @@ text files. The first part of my research was spent researching which programmin
 that were useful to my program. The second part of my research was exploring encryption methods and which method I could use to implement 
 into my program.
 
+This is the final version.
 
