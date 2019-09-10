@@ -11,7 +11,7 @@ _This program was developed using the **QT** framework built using C++._
 
 **This is the final version as of now**
 
-# VERSION 4
+# FINAL
 
 At this point into the project I was happy with the design and I wanted to implement the final encryption algorithms and the final changes 
 that were needed to be made. I decided to change the Caesar Cipher encryption algorithm from using a number key to using my implementation 
@@ -21,7 +21,7 @@ in their message, the program will automatically generate a random key, only if 
 to type in their cypher text until they have entered a key. An error message shows if the user tries to enter their cypher text before 
 entering the key. They key itself is generated using randomising algorithms and gives back an ASCII value which can be corresponded to a 
 character. This way the key is a word and not just a single number, therefore, the algorithm is more secure. I also implemented a method of 
-hiding the key in the cypher text of the encrypted file. The placement of the key is known by the algorithm so it is easy for the program to
-find the key.
+hiding the key in the cypher text of the encrypted file. The placement of the key is known by the algorithm so it is easy for the program 
+to find the key.
 
 ![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-4/Images/Version4.jpg)
