@@ -16,14 +16,14 @@ interface that the user would navigate in with ease. I designed my own interface
 palette. The program has two “layers” which are the encryption and decryption page. On each “layer” the user has the choice of Real-Time 
 Encryption or File Encryption. The user can access these two pages by using the buttons on the side which come with self-explanatory icons.
 
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Version%203_1.jpeg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Version%203_1.jpg)
 
 The real-time encryption encrypts the input of the user as the user types it so there is no delay and if the user decides to change the 
 key after they have typed their text, the program will update the cypher text based on the new key. File encryption allows the user to 
 easily browse for a .txt text file from their computer, choose their encrypted file name and location and encrypt it using their desired 
 key. The program has been optimised to minimise any loading while the program encrypts/decrypts and outputs the file.
 
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Version%203_2.jpeg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Version%203_2.jpg)
 
 I was initially unhappy with the default toolbar that Windows provides. It did not fit the style of my program, therefore, I set out to 
 program in my own toolbar. Adding a toolbar with the buttons was not a hard task however, replicating the ability to move the program 
@@ -33,7 +33,7 @@ positions of the mouse before the movement and after the movement and applies th
 the mouse.
 
 **Before:**
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Toolbar1.jpeg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Toolbar1.jpg)
 
 **After:**
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Toolbar2.jpeg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-3/Images/Toolbar2.jpg)
