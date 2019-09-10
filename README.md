@@ -11,7 +11,7 @@ _This program was developed using the **QT** framework built using C++._
 
 **This is the final version as of now**
 
-# VERSION 3
+# VERSION 4
 
 At this point into the project I was happy with the design and I wanted to implement the final encryption algorithms and the final changes 
 that were needed to be made. I decided to change the Caesar Cipher encryption algorithm from using a number key to using my implementation 
