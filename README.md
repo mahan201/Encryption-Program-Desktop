@@ -17,7 +17,7 @@ key and then have that plain text encrypted and displayed on the area above the 
 Cipher key was not a word but only a number. It was only a prototype to see a working program that encrypts data and can handle any 
 character on the keyboard.
 
-** THIS VERSION DOES NOT HAVE THE SOURCE CODE AVAILABLE AS I WAS NOT USING GITHUB AT THE TIME OF DEVELOPMENT **
+**THIS VERSION DOES NOT HAVE THE SOURCE CODE AVAILABLE AS I WAS NOT USING GITHUB AT THE TIME OF DEVELOPMENT**
 
 ![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-1/Images/Version%201.jpg)
 
