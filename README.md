@@ -16,4 +16,4 @@ except it being split into two sections where the user can both encrypt and decr
 
 **THIS VERSION DOES NOT HAVE THE SOURCE CODE AVAILABLE AS I WAS NOT USING GITHUB AT THE TIME OF DEVELOPMENT**
 
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-2/Images/Version%202.jpg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-2/Images/Version%202.jpeg)
