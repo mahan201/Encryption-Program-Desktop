@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>resources/encryption.png</file>
+        <file>resources/info.png</file>
+        <file>resources/quit.png</file>
+        <file>resources/maximize.png</file>
+        <file>resources/minimize.png</file>
+        <file>resources/decryption.png</file>
+        <file>resources/up-arrow.png</file>
+        <file>resources/down-arrow.png</file>
+    </qresource>
+</RCC>
