@@ -1,4 +1,7 @@
 # Encryption-Program-Desktop
+
+**For the full report please read the "EPQ Written Report.pdf" file.**
+
 Windows Encryption program developed as part of my EPQ qualification. 
 
 
