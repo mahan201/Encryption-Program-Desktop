@@ -14,6 +14,16 @@ _This program was developed using the **QT** framework built using C++._
 
 **This is the final version as of now**
 
+# Security
+
+This program uses the Vigenère cipher algorithm which is an extended version of the Caesar Cipher algorithm. A string of letters of length 4-12 is used ask the key to shift the letters. By calculating how many possible combinations my keys could have and by estimating how many keys can be tested per second, we can calculate an estimate as to how secure the keys are. My keys used in my program are randomly generated between the lengths of 4 to 12 characters. Each character is chosen randomly from 90 possible values from the ASCII table. Therefore, each letter can have 90 combinations. This means that to crack a key of length 12 characters, 90^12 combinations need to be tested (near to 3x10^23 combinations).
+According to research from “BetterBuys.com”, the estimated number of keys testable in one second in 2018 is around 15 million keys per second. This means that it would take 2x1016 (3x10^23/15000000) seconds to test every single possible combination of my keys. This translates to 6x10^8 years to crack one of my keys. This is an astronomically large amount of time, so this means that realistically, this key is uncrackable through brute force.
+
+To test this for myself, I used the estimating cracking time program available on “BetterBuys.com” to get an estimate of how long randomly generated keys from my program would take to be cracked. I took a sample of 100 keys randomly generated from my program, put into the websites estimator and recorded the given time in years it would take to crack that key. The graph below shows the result of this experiment. It shows the percentage of time a key was generated that had a certain average time to crack. This showed that more than 50% of the time a key is generated takes over 91,458 years to crack. These results show that in practice, these keys are just as reliable and secure as thought to be in theory.
+
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-4/Images/excel.jpg)
+![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-4/Images/graph.jpg)
+
 # FINAL
 
 At this point into the project I was happy with the design and I wanted to implement the final encryption algorithms and the final changes 
