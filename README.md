@@ -21,8 +21,8 @@ According to research from “BetterBuys.com”, the estimated number of keys te
 
 To test this for myself, I used the estimating cracking time program available on “BetterBuys.com” to get an estimate of how long randomly generated keys from my program would take to be cracked. I took a sample of 100 keys randomly generated from my program, put into the websites estimator and recorded the given time in years it would take to crack that key. The graph below shows the result of this experiment. It shows the percentage of time a key was generated that had a certain average time to crack. This showed that more than 50% of the time a key is generated takes over 91,458 years to crack. These results show that in practice, these keys are just as reliable and secure as thought to be in theory.
 
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-4/Images/excel.jpg)
-![alt text](https://raw.githubusercontent.com/mahan201/Encryption-Program-Desktop/Version-4/Images/graph.jpg)
+![alt text](https://github.com/mahan201/Encryption-Program-Desktop/blob/4e2aed28cd372789ced1db287c71cf1a844c8f8e/Images/excel.jpg)
+![alt text](https://github.com/mahan201/Encryption-Program-Desktop/blob/4e2aed28cd372789ced1db287c71cf1a844c8f8e/Images/graph.jpg)
 
 # FINAL
 
